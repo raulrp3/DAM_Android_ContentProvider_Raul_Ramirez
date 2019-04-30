@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProviders</string>
+    <string name="button_load">Cargar llamadas</string>
+</resources>
